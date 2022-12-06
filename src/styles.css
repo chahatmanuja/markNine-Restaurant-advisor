@@ -1,0 +1,20 @@
+body {
+  background-color: orange;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: orange;
+}
+.buttons {
+  background-color: orange;
+  padding: 0.5rem, 0.5rem;
+  display: inline-block;
+  cursor: pointer;
+  font-size: larger;
+  border-radius: 0.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  text-align: center;
+}
